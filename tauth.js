@@ -1,5 +1,4 @@
 var oauth = require('oauth');
-var request = require('request');
 var qs = require('querystring');
 
 
